@@ -43,12 +43,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Team Summary)
 
 <div align="center">
 
-[![Hansung-CapJjang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansung-CapJjang&show_icons=true&theme=tokyonight)](https://github.com/Hansung-CapJjang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpfls&layout=compact&theme=tokyonight)](https://github.com/tpfls)
+<img src="https://your-team-static-report.com/capjjang-summary.png" width="600"/>
 
 </div>
 
@@ -56,7 +55,7 @@
 
 ## ✉️ Contact
 
-문의: [capjjang.team@gmail.com](mailto:capjjang.team@gmail.com)
+📮 문의: [capjjang.team@gmail.com](mailto:capjjang.team@gmail.com)
 
 ---
 
