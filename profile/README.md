@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=green&height=200&text=Welcome!%20We're%20CapJjang&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!%20We're%20Team:CapJjang&fontSize=40)<br>
 
 <br>
 
