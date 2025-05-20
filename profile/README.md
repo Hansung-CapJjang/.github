@@ -10,7 +10,7 @@
 
 | 이름 | 역할 | 담당 업무 |
 |------|------|------------|
-| 박한비 | 팀장, Backend | 서버 구축 및 관리, 데이터베이스 설계 |
+| 박한비 | Back-End | 팀장, 서버 구축 및 관리, 데이터베이스 설계 |
 | 정세연 | Front-End | UI 설계 및 구현, 딥러닝 모델 훈련 및 연동 |
 | 홍세린 | Front-End | UI 설계 및 구현, 어플리케이션 디자인 |
 
@@ -23,7 +23,7 @@
 | **개발 환경** | Mac OS, Windows, Linux, AWS |
 | **개발 도구** | Visual Studio Code, IntelliJ IDEA |
 | **개발 언어** | Dart, Java, Python |
-| **프레임워크** | Flutter, Spring Boot, PyTorch |
+| **프레임 워크** | Flutter, Spring Boot, PyTorch |
 
 ---
 
