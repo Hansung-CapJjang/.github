@@ -6,7 +6,20 @@
 
 ---
 
-## 👥 팀 구성
+## 👨‍👩‍👧‍👧Team Members
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/sseyeonn"><img src="https://github.com/user-attachments/assets/ccff23b6-873c-4a70-b58a-a1038c6de7d6" width="150px;" alt=""/><br /><sub><b>박한비</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/sseyeonn"><img src="https://github.com/user-attachments/assets/ccff23b6-873c-4a70-b58a-a1038c6de7d6" width="150px;" alt=""/><br /><sub><b>정세연</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/sseyeonn"><img src="https://github.com/user-attachments/assets/ccff23b6-873c-4a70-b58a-a1038c6de7d6" width="150px;" alt=""/><br /><sub><b>홍세린</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 👥 Member Role
 
 | 이름 | 역할 | 담당 업무 |
 |------|------|------------|
