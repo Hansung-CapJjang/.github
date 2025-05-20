@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍👩‍👧‍👧Team Members
+## 👨‍👩‍👧‍👧 Team Members
 <table>
   <tbody>
     <tr>
@@ -68,7 +68,7 @@
 
 ## ✉️ Contact
 
-📮 문의: [capjjang.team@gmail.com](mailto:capjjang.team@gmail.com)
+📮 문의: [capjjang0530@gmail.com](mailto:capjjang0530@gmail.com)
 
 ---
 
