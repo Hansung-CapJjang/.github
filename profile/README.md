@@ -2,11 +2,47 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!%20We're%20Team:CapJjang👋&fontSize=40)<br>
 
-<br>
-
 </div>
 
+---
+
+## 🗂️ 프로젝트 개요
+
+> **감정을 이해하는 기술, 소통을 연결하는 플랫폼**
+
+CapJjang은 감정 분석을 기반으로 한 실시간 피드백 시스템을 제공하여, 더 나은 커뮤니케이션 환경을 지원하는 플랫폼입니다.  
+Flutter 기반의 프론트엔드와 Spring Boot 기반의 백엔드, 그리고 PyTorch 기반의 딥러닝 모델을 통해 통합 서비스를 제공합니다.
+
+---
+
+## 🔑 주요 기능
+
+- 실시간 감정 분석 기반 응답 제공
+- 사용자 감정 이력 시각화 및 통계 기능
+- 인터랙티브 UI를 통한 직관적인 사용자 경험
+- 다중 플랫폼(모바일/웹) 지원
+- 협업 도구 기반 업무 분담 및 효율적인 소통
+
+---
+
+## 🎥 시연 영상
+
+[🔗 프로젝트 시연 영상 보러가기](https://your-demo-video-link.com)
+
+---
+
+## 📸 UI 화면 미리보기
+
+<div align="center">
+  <img src="https://your-image-link.com/ui1.png" width="300"/>
+  <img src="https://your-image-link.com/ui2.png" width="300"/>
+  <img src="https://your-image-link.com/ui3.png" width="300"/>
+</div>
+
+---
+
 ## 👨‍👩‍👧‍👧 Team Members
+
 <table>
   <tbody>
     <tr>
@@ -40,6 +76,15 @@
 
 ---
 
+## 📎 협업 도구
+
+- 프로젝트 관리: **Notion**
+- 팀 커뮤니케이션: **Discord**
+
+> *해당 협업 도구들은 개발 및 일정 관리를 위해 사용되었으며, 외부 링크는 제공하지 않습니다.*
+
+---
+
 ## 🔧 Tech Stack 뱃지
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -56,25 +101,23 @@
 
 ---
 
-## 📊 GitHub Stats (Team Summary)
-
-<div align="center">
-
-<img src="https://your-team-static-report.com/capjjang-summary.png" width="600"/>
-
-</div>
-
----
-
 ## ✉️ Contact
 
 📮 문의: [capjjang0530@gmail.com](mailto:capjjang0530@gmail.com)
 
 ---
 
+## 📚 출처
+
+본 프로젝트는 여러 기술 자료 및 오픈소스를 참고하여 개발되었습니다.  
+세부적인 참고 링크는 문서 하단 또는 발표자료에 별도 명시 예정입니다.
+
+---
+
 <div align="center">
 
 _감정을 이해하는 기술, 소통을 연결하는 플랫폼_  
-**Hansung-CapJjang** 팀 💡
+**Hansung-CapJjang** 팀 💡  
+AI를 활용한 더 많은 아이디어 👉 [GPT Online 바로가기](https://gptonline.ai/ko/)
 
 </div>
