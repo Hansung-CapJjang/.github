@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!%20We're%20Team:CapJjang👋&fontSize=40)<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!%20We're%20Team.CapJjang👋&fontSize=40)<br>
 
 </div>
 
@@ -108,7 +108,7 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 2. GPT openai : 유연하고 자연스러운 말투 지원하여 라마 모델이 반환한 응답 후처리
 
 <div align="center">
-  <img src="./images/모델비교.jpg" height="400"/>
+  <img src="./images/모델비교.png" height="500"/>
 </div>
 
 ---
