@@ -6,46 +6,7 @@
 
 ---
 
-## 🗂️ 프로젝트 개요
-
-> **마음을 위로하는
-AI 상담 챗봇 어플리케이션**
-
-현대인은 다양한 심리적 문제에 직면하고 있지만
-정신 상담에 대한 거리감으로 인해 전문적인 도움을 받기
-어려운 상황이다. 이에 본 어플리케이션은 프라이버시가 보장된
-AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
-결합해 이용자의 몰입도와 정서 관리 효과를 높이고자 한다.
-
----
-
-## 🔑 주요 기능
-
-- 상담사 유형 선택 가능: 사용자 취향에 맞는 다양한 AI 상담사 선택
-- 상담 방식 선택: 음성 또는 채팅 중 원하는 방식으로 자유롭게 상담 진행
-- 도장 수집 시스템: 상담을 완료할 때마다 도장을 하나씩 획득
-- 도장판 완성 → 캐릭터 진화: 도장을 모아 도장판을 완성하면 캐릭터가 성장하는 게임적 보상 시스템
-- 몰입도 향상: 감정 치유에 게임 요소를 더해 사용자의 꾸준한 참여 유도
-
----
-
-## 🎥 시연 영상
-
-[🔗 프로젝트 시연 영상 보러가기](https://your-demo-video-link.com)
-
----
-
-## 📸 UI 화면 미리보기
-
-<div align="center">
-  <img src="./images/1.png" height="400"/>
-  <img src="./images/2.png" height="400"/>
-  <img src="./images/3.png" height="400"/>
-</div>
-
----
-
-## 👨‍👩‍👧‍👧 Team Members
+## 👨‍👩‍👧‍👧 팀원 소개
 
 <table>
   <tbody>
@@ -59,33 +20,47 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 
 ---
 
-## 👥 Member Role
+## 🗂️ 프로젝트 개요
 
-| 이름 | 역할 | 담당 업무 |
-|------|------|------------|
-| 박한비 | Back-End | 팀장, 서버 구축 및 관리, 데이터베이스 설계 |
-| 정세연 | Front-End | UI 설계 및 구현, 딥러닝 모델 훈련 및 연동 |
-| 홍세린 | Front-End | UI 설계 및 구현, 어플리케이션 디자인 |
+> **마음을 위로하는
+AI 상담 챗봇 어플리케이션**
 
----
-
-## 🧰 주요 적용 기술 및 구조
-
-| 항목 | 내용 |
-|------|------|
-| **개발 환경** | Mac OS, Windows, Linux, AWS |
-| **개발 도구** | Visual Studio Code, IntelliJ IDEA |
-| **개발 언어** | Dart, Java, Python |
-| **프레임 워크** | Flutter, Spring Boot, PyTorch |
+현대인은 다양한 심리적 문제에 직면하고 있지만
+정신 상담에 대한 거리감과 사회적 인식 등으로 인해 전문적인 도움을 받기
+어려운 상황입니다. 
+이에 본 어플리케이션은 프라이버시가 보장된
+AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
+결합해 이용자의 몰입도와 정서 관리 효과를 높이고자 합니다.
 
 ---
 
-## 📎 협업 도구
+## 🔑 주요 기능
 
-- 프로젝트 관리: <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion**
-- 팀 커뮤니케이션: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aMugg7LWDXqkWc-9JlApM4MLPXhi-EPDYA&s" width="20"/> **Discord**
+- **상담 방식 선택** : 사용자 취향에 맞는 AI 상담사 선택
+- **음성 상담 제공** : 채팅 뿐 아니라 음성 상담도 지원
+- **도장 수집 시스템** : 상담을 완료할 때마다 도장을 하나씩 획득
+- **도장판 완성 → 캐릭터 진화** : 도장을 모아 도장판을 완성하면 캐릭터가 성장하는 보상 시스템
+- **몰입도 향상** : 감정 치유에 게임 요소를 더해 사용자의 꾸준한 참여 유도
 
-> *해당 협업 도구들은 개발 및 일정 관리를 위해 사용되었으며, 외부 링크는 제공하지 않습니다.*
+---
+
+## 🎥 시연 영상
+
+[🔗 프로젝트 시연 영상 보러가기](https://your-demo-video-link.com)
+
+---
+
+## 프로젝트 구조
+
+---
+
+## 📸 화면 미리보기
+
+<div align="center">
+  <img src="./images/1.png" height="400"/>
+  <img src="./images/2.png" height="400"/>
+  <img src="./images/3.png" height="400"/>
+</div>
 
 ---
 
@@ -102,6 +77,44 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+## 🧰 주요 적용 기술 및 구조
+
+| 항목 | 내용 |
+|------|------|
+| **개발 환경** | Mac OS, Windows, Linux, AWS |
+| **개발 도구** | Visual Studio Code, IntelliJ IDEA |
+| **개발 언어** | Dart, Java, Python |
+| **프레임 워크** | Flutter, Spring Boot, PyTorch |
+
+---
+
+## 🍀 기대 효과
+
+- **접근성** : 24시간 언제 어디서나 상담 가능
+- **심리적 부담 완화** : AI 챗봇으로 편안한 대화 유도
+- **자가 인식 향상** : 대화를 통해 자신의 감정을 객관적으로 바라볼 수 있음
+
+---
+
+## 👥 역할 소개
+
+| 이름 | 역할 | 담당 업무 |
+|------|------|------------|
+| 박한비 | Back-End | 팀장, 서버 구축 및 관리, 데이터베이스 설계 |
+| 정세연 | Front-End | UI 설계 및 구현, 딥러닝 모델 훈련 및 연동 |
+| 홍세린 | Front-End | UI 설계 및 구현, 어플리케이션 디자인 |
+
+---
+
+## 📎 협업 도구
+
+- 프로젝트 관리: <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion**
+- 팀 커뮤니케이션: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aMugg7LWDXqkWc-9JlApM4MLPXhi-EPDYA&s" width="20"/> **Discord**
+
+> *해당 협업 도구들은 개발 및 일정 관리를 위해 사용되었으며, 외부 링크는 제공하지 않습니다.*
 
 ---
 
