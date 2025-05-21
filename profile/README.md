@@ -68,7 +68,7 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 ## ⚙️ 프로젝트 구조도
 
 <div align="center">
-  <img src="./images/구조도.png" height="300"/>
+  <img src="./images/구조도.png" height="400"/>
 </div>
 
 
@@ -158,7 +158,15 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 | 홍세린 | Front-End | UI 설계 및 구현, 어플리케이션 디자인 |
 
 
---
+---
+
+
+
+
+
+
+
+
 
 
 
@@ -168,7 +176,7 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 
 ## 📎 협업 도구
 
-- 프로젝트 관리: <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion** &nbsp;&nbsp;
+- 프로젝트 관리: <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion**, &nbsp;&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20"/> **GitHub**
 - 팀 커뮤니케이션: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aMugg7LWDXqkWc-9JlApM4MLPXhi-EPDYA&s" width="20"/> **Discord**
 
