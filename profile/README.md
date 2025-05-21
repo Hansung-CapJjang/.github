@@ -4,7 +4,9 @@
 
 </div>
 
+
 ---
+
 
 ## 👨‍👩‍👧‍👧 팀원 소개
 
@@ -18,7 +20,9 @@
   </tbody>
 </table>
 
+
 ---
+
 
 ## 🗂️ 프로젝트 개요
 
@@ -32,27 +36,43 @@ AI 상담 챗봇 어플리케이션**
 AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 결합해 이용자의 몰입도와 정서 관리 효과를 높이고자 합니다.
 
+
 ---
+
 
 ## 🔑 주요 기능
 
 - **상담 방식 선택** : 사용자 취향에 맞는 AI 상담사 선택
+- 
 - **음성 상담 제공** : 채팅 뿐 아니라 음성 상담도 지원
+- 
 - **도장 수집 시스템** : 상담을 완료할 때마다 도장을 하나씩 획득
+- 
 - **도장판 완성 → 캐릭터 진화** : 도장을 모아 도장판을 완성하면 캐릭터가 성장하는 보상 시스템
+- 
 - **몰입도 향상** : 감정 치유에 게임 요소를 더해 사용자의 꾸준한 참여 유도
 
+
 ---
+
 
 ## 🎥 시연 영상
 
 [🔗 프로젝트 시연 영상 보러가기](https://your-demo-video-link.com)
 
----
-
-## 프로젝트 구조
 
 ---
+
+
+## ⚙️ 프로젝트 구조
+
+<div align="center">
+  <img src="./images/구조도.png" height="500"/>
+</div>
+
+
+---
+
 
 ## 📸 화면 미리보기
 
@@ -62,7 +82,9 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
   <img src="./images/3.png" height="400"/>
 </div>
 
+
 ---
+
 
 ## 🔧 Tech Stack 뱃지
 
@@ -78,7 +100,9 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
+
 ---
+
 
 ## 🧰 주요 적용 기술 및 구조
 
@@ -89,7 +113,9 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 | **개발 언어** | Dart, Java, Python |
 | **프레임 워크** | Flutter, Spring Boot, PyTorch |
 
+
 ---
+
 
 ## 🍀 기대 효과
 
@@ -97,7 +123,9 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 - **심리적 부담 완화** : AI 챗봇으로 편안한 대화 유도
 - **자가 인식 향상** : 대화를 통해 자신의 감정을 객관적으로 바라볼 수 있음
 
+
 ---
+
 
 ## 👥 역할 소개
 
@@ -107,16 +135,21 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 | 정세연 | Front-End | UI 설계 및 구현, 딥러닝 모델 훈련 및 연동 |
 | 홍세린 | Front-End | UI 설계 및 구현, 어플리케이션 디자인 |
 
+
 ---
+
 
 ## 📎 협업 도구
 
-- 프로젝트 관리: <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion**
+- 프로젝트 관리: <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion** &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20"/> **GitHub**
 - 팀 커뮤니케이션: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aMugg7LWDXqkWc-9JlApM4MLPXhi-EPDYA&s" width="20"/> **Discord**
 
 > *해당 협업 도구들은 개발 및 일정 관리를 위해 사용되었으며, 외부 링크는 제공하지 않습니다.*
 
+
 ---
+
 
 ## ✉️ Contact
 
