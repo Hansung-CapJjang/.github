@@ -25,11 +25,10 @@
 > **마음을 위로하는
 AI 상담 챗봇 어플리케이션**
 
-현대인은 다양한 심리적 문제에 직면하고 있지만
+현대인은 다양한 심리적 문제에 직면하고 있지만<br>
 정신 상담에 대한 거리감과 사회적 인식 등으로 인해 전문적인 도움을 받기
-어려운 상황입니다. 
-이에 본 어플리케이션은 프라이버시가 보장된
-AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
+어려운 상황입니다. <br><br>
+이에 본 어플리케이션은 <br>**프라이버시가 보장된 AI 상담 챗봇**을 통해 자유로운 대화를 제공하고, <br>**게임적 요소**를
 결합해 이용자의 몰입도와 정서 관리 효과를 높이고자 합니다.
 
 ---
@@ -73,7 +72,7 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 
 ---
 
-## 🔧 Tech Stack 뱃지
+## 🔧 Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -102,7 +101,7 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 
 ## 🤖 채택 모델
 
-**LLaMA 3 기반 파인튜닝 모델 + GPT-3.5-turbo 후처리**
+> **LLaMA 3 기반 파인튜닝 모델 + GPT-3.5-turbo 후처리**
 
 1. 파인튜닝 : 전문 상담사의 발화 맥락 학습
 2. GPT openai : 유연하고 자연스러운 말투 지원하여 라마 모델이 반환한 응답 후처리
@@ -135,7 +134,7 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 
 ## 📎 협업 도구
 
-- **프로젝트 관리** : <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion**,&nbsp;
+- **프로젝트 관리** : <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion**,;
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20"/> **GitHub**
 - **팀 커뮤니케이션** : <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aMugg7LWDXqkWc-9JlApM4MLPXhi-EPDYA&s" width="20"/> **Discord**
 
@@ -151,7 +150,7 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 
 ## 📚 출처
 
-본 프로젝트는 여러 기술 자료 및 오픈소스를 참고하여 개발되었습니다.  
+> 본 프로젝트는 여러 기술 자료 및 오픈소스를 참고하여 개발되었습니다.  
 <https://aclanthology.org/2024.findings-emnlp.832/>
 
 ---
