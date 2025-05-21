@@ -132,7 +132,7 @@ AI 상담 챗봇 어플리케이션**
 
 ## 📎 협업 도구
 
-- **프로젝트 관리** : <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion**,;
+- **프로젝트 관리** : <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion**,
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20"/> **GitHub**
 - **팀 커뮤니케이션** : <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aMugg7LWDXqkWc-9JlApM4MLPXhi-EPDYA&s" width="20"/> **Discord**
 
