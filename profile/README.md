@@ -114,10 +114,4 @@ Flutter 기반의 프론트엔드와 Spring Boot 기반의 백엔드, 그리고 
 
 ---
 
-<div align="center">
 
-_감정을 이해하는 기술, 소통을 연결하는 플랫폼_  
-**Hansung-CapJjang** 팀 💡  
-AI를 활용한 더 많은 아이디어 👉 [GPT Online 바로가기](https://gptonline.ai/ko/)
-
-</div>
