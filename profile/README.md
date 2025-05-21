@@ -34,9 +34,9 @@ Flutter 기반의 프론트엔드와 Spring Boot 기반의 백엔드, 그리고 
 ## 📸 UI 화면 미리보기
 
 <div align="center">
-  <img src="https://your-image-link.com/ui1.png" width="300"/>
-  <img src="https://your-image-link.com/ui2.png" width="300"/>
-  <img src="https://your-image-link.com/ui3.png" width="300"/>
+  <img src="./images/1.png" width="300"/>
+  <img src="./images/2.png" width="300"/>
+  <img src="./images/3.png" width="300"/>
 </div>
 
 ---
