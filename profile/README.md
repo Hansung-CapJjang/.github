@@ -64,10 +64,10 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 ---
 
 
-## ⚙️ 프로젝트 구조
+## ⚙️ 프로젝트 구조도
 
 <div align="center">
-  <img src="./images/구조도.png" height="500"/>
+  <img src="./images/구조도.png" height="300"/>
 </div>
 
 
@@ -86,6 +86,9 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 ---
 
 
+
+
+
 ## 🔧 Tech Stack 뱃지
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -101,7 +104,13 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 
+
+
+
 ---
+
+
+
 
 
 ## 🧰 주요 적용 기술 및 구조
@@ -114,7 +123,13 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 | **프레임 워크** | Flutter, Spring Boot, PyTorch |
 
 
+
+
+
 ---
+
+
+
 
 
 ## 🍀 기대 효과
@@ -124,7 +139,13 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 - **자가 인식 향상** : 대화를 통해 자신의 감정을 객관적으로 바라볼 수 있음
 
 
+
+
+
 ---
+
+
+
 
 
 ## 👥 역할 소개
@@ -136,7 +157,12 @@ AI 상담 챗봇을 통해 자유로운 대화를 제공하고, 게임 요소를
 | 홍세린 | Front-End | UI 설계 및 구현, 어플리케이션 디자인 |
 
 
----
+--
+
+
+
+
+
 
 
 ## 📎 협업 도구
