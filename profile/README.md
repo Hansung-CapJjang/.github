@@ -78,8 +78,8 @@ Flutter 기반의 프론트엔드와 Spring Boot 기반의 백엔드, 그리고 
 
 ## 📎 협업 도구
 
-- 프로젝트 관리: **Notion**
-- 팀 커뮤니케이션: **Discord**
+- 프로젝트 관리: <img src="https://www.venturesquare.net/wp-content/uploads/2020/06/notion.png" width="20"/> **Notion**
+- 팀 커뮤니케이션: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8aMugg7LWDXqkWc-9JlApM4MLPXhi-EPDYA&s" width="20"/> **Discord**
 
 > *해당 협업 도구들은 개발 및 일정 관리를 위해 사용되었으며, 외부 링크는 제공하지 않습니다.*
 
