@@ -68,7 +68,7 @@ AI 상담 챗봇 어플리케이션**
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stacks
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -105,16 +105,6 @@ AI 상담 챗봇 어플리케이션**
 <div align="center">
   <img src="./images/모델비교.png" style="max-width: 100%; height: auto;" />
 </div>
-
----
-
-## 🍀 기대 효과
-
-- **접근성** : 24시간 언제 어디서나 상담 가능
-  
-- **심리적 부담 완화** : AI 챗봇으로 편안한 대화 유도
-  
-- **자가 인식 향상** : 대화를 통해 자신의 감정을 객관적으로 바라볼 수 있음
 
 ---
 
