@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/6e2bb2e2-0dab-457b-bde4-a4b2eda2a79d)<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!%20We're%20Team.CapJjang👋&fontSize=40)<br>
 
@@ -54,7 +54,7 @@ AI 상담 챗봇 어플리케이션**
 ## ⚙️ 프로젝트 구조도
 
 <div align="center">
-  <img src="./images/구조도.png" height="400"/>
+  <img src="./images/구조도.png" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
@@ -105,7 +105,7 @@ AI 상담 챗봇 어플리케이션**
 2. GPT openai : 유연하고 자연스러운 말투를 지원하여 라마 모델이 반환한 응답 후처리
 
 <div align="center">
-  <img src="./images/모델비교.png" height="500"/>
+  <img src="./images/모델비교.png" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
