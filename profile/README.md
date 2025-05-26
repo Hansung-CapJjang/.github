@@ -139,7 +139,7 @@ AI 상담 챗봇 어플리케이션**
 > 본 프로젝트는 여러 기술 자료 및 오픈소스를 참고하여 개발되었습니다.  
 <https://aclanthology.org/2024.findings-emnlp.832/>    
 > 훈련 모델 업로드 위치  
-<https://huggingface.co/sseyeonn/emoti-lora-ko-8b/>
+<https://huggingface.co/sseyeonn/emoti-chatbot-lora-ko-8b/>
 
 ---
 
