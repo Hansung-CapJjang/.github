@@ -45,7 +45,7 @@ AI 상담 챗봇 어플리케이션**
 
 ## 🎥 시연 영상
 
-[🔗 프로젝트 시연 영상 보러가기](https://your-demo-video-link.com)
+[🔗 프로젝트 시연 영상 보러가기](https://youtu.be/bTdNY5alUvc)
 
 ---
 
